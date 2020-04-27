@@ -1,3 +1,6 @@
+**Status:** No longer active / archived
+
+
 LINKS PLUGIN
 ------------
 
